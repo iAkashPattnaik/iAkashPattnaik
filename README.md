@@ -1,6 +1,6 @@
 # <img src="https://i.imgur.com/lsizgGl.gif" width="30px"> Hello! I'm Akash Pattnaik known as BlueDevil.
 
-I'm a student from india who has completed and loves Python and Is Learning Dart && Node-Js
+**I'm a student from india who has completed and loves Python and Is Learning Dart && Node-Js**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BLUE-DEVIL1134&label=Views&color=blue&style=plastic" alt="AKash" /> </p>
 
