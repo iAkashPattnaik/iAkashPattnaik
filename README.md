@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BLUE-DEVIL1134&label=Views&color=blue&style=plastic" alt="AKash" /> </p>
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=BLUE-DEVIL1134&show_icons=true&theme=algolia&hide_border=true*custom_title=AkashPattanaik%27s%20GitHub%20Stats)](https://github.com/BLUE-DEVIL1134)
+[![github stats](https://github-stats-alpha.vercel.app/api/?username=BLUE-DEVIL1134&cc=050F2C&tc=fff&ic=2AD091)](https://github.com/BLUE-DEVIL1134)
 
 <a href="https://github.com/BLUE-DEVIL1134">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLUE-DEVIL1134&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" />
