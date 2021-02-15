@@ -3,12 +3,14 @@
 <h2><b style="font-size: 40px;">Hoi !,<br>I Am Just A Student (Most Probally A Geek) From India...<br>I Lob Python, Node-JS And Currently After Flutter</b></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BLUE-DEVIL1134&label=Views&color=blue&style=plastic" alt="AKash" /> </p>
+<br>
 
-[![github stats](https://github-stats-alpha.vercel.app/api/?username=BLUE-DEVIL1134&cc=050F2C&tc=fff&ic=2AD091)](https://github.com/BLUE-DEVIL1134)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BLUE-DEVIL1134&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://github.com/BLUE-DEVIL1134">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLUE-DEVIL1134&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" />
-</a>
+<div>
+  <img height="170" align="left" src="https://github-stats-alpha.vercel.app/api/?username=BLUE-DEVIL1134&cc=fff&tc=000&ic=e34c26&sbc=fff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLUE-DEVIL1134&layout=compact" />
+</div>
 
 <br />
 
