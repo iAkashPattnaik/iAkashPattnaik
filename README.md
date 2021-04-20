@@ -14,6 +14,8 @@
 
 <br />
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BLUE-DEVIL1134&hide_border=true&fire=FF0000&sideLabels=FF00F3&dates=00DD26&stroke=27BEDD&background=000000&currStreakLabel=00A7FF&currStreakNum=F5F000&sideNums=FFFFFF&ring=DD00DA)](https://git.io/streak-stats)
+
 ### Languages and Tools I Use:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
