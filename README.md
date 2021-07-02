@@ -1,21 +1,22 @@
-# <img src="https://i.imgur.com/lsizgGl.gif" width="30px"> Hello! I'm Akash Pattnaik known as BlueDevil.
+## <img src="https://i.imgur.com/lsizgGl.gif" width="30px"> Hi I'm Akash Pattnaik || <img src="https://komarev.com/ghpvc/?username=BLUE-DEVIL1134&label=Profile Views&color=blue&style=plastic" alt="profileViews" />
 
-<h2><b style="font-size: 40px;">Hoi !,<br>I Am Just A Student (Most Probally A Geek) From India...<br>I Lob Python, Node-JS And Currently After Flutter</b></h2>
+- 💫 I’m currently working on [GramJSUserbot](https://github.com/gramjsuserbot)
+- 📱 [Contact with me](#-connect-with-me).
+- ⚡ Always ready to contribute!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BLUE-DEVIL1134&label=Views&color=blue&style=plastic" alt="AKash" /> </p>
-<br>
+---
+### 📊 Stats:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BLUE-DEVIL1134&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Metrics](https://metrics.lecoq.io/BLUE-DEVIL1134?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://xditya.me)
 
-<div>
-  <img height="170" align="left" src="https://github-stats-alpha.vercel.app/api/?username=BLUE-DEVIL1134&cc=fff&tc=000&ic=e34c26&sbc=fff" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLUE-DEVIL1134&layout=compact" />
-</div>
+---
+### 🔗 Connect with me:
 
-<br />
+<!--<a href="https://BLUE-DEVIL1134.github.io"><img align="left" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>-->
+<a href="https://telegram.dog/BLUE-DEVIL1134"><img align="left" alt="BLUE-DEVIL1134" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a> 
+</br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BLUE-DEVIL1134&hide_border=true&fire=FF0000&sideLabels=FF00F3&dates=00DD26&stroke=27BEDD&background=000000&currStreakLabel=00A7FF&currStreakNum=F5F000&sideNums=FFFFFF&ring=DD00DA)](https://git.io/streak-stats)
-
+---
 ### Languages and Tools I Use:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
@@ -31,4 +32,8 @@
 [<img align="left" alt="Kubernetes" width="36px" src="https://carlossg.github.io/presentations/assets/kubernetes-logo-text.png" />](https://kubernetes.io/es/)
 [<img align="left" alt="RedHat" width="56px" src="https://www.muycomputerpro.com/wp-content/uploads/2019/05/RedHat_logo.jpg" />](https://www.redhat.com/es)
 <br />
-<br />
+
+---
+### 💰 Support Me Financially:
+<a href="https://ko-fi.com/akashpattnaik"><img height="30" style="border:0px;height:30px;" align="left" alt="Akash" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" /></a> 
+
