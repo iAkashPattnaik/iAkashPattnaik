@@ -13,6 +13,7 @@
 - <a href="https://github.com/BLUE-DEVIL1134/MinecraftChecker">Mirecraft Checker</a>
 - <a href="https://github.com/TeamUltroid/Ultroid">Ultroid</a>
   - <a href="https://github.com/BLUE-DEVIL1134/UltroidCli" align="right">UltroidCli</a>
+  - <a href="https://github.com/BLUE-DEVIL1134/UltroidCliTemplate" align="right">UltroidCliTemplate</a> 
 - <a href="https://github.com/BLUE-DEVIL1134/ProX-WebApp">ProXWebApp</a>
 - <a href="https://github.com/BLUE-DEVIL1134/AudioExtractorBot">Audio Extractor Bot</a>
 - <a href="https://github.com/BLUE-DEVIL1134/IronEye">IronEye</a>
