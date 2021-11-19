@@ -1,7 +1,8 @@
 ## <img src="https://i.imgur.com/lsizgGl.gif" width="30px"> Hi I'm Akash Pattnaik || <img src="https://komarev.com/ghpvc/?username=BLUE-DEVIL1134&label=Profile Views&color=blue&style=plastic" alt="profileViews" />
 
-- 💫 I’m currently working on [GramJSUserbot](https://github.com/gramjsuserbot)
-- 📱 [Contact with me](#-connect-with-me).
+- 💫 I’m currently working on [UltroidCli](https://github.com/BLUE-DEVIL1134/UltroidCli)
+- 📱 [Contact with me](#-connect-with-me)
+- 💰 [Donate or Support](#-donate-or-support)
 - ⚡ Always ready to contribute!
 
 ---
@@ -28,27 +29,33 @@
 ### 🔗 Connect with me:
 
 <!--<a href="https://BLUE-DEVIL1134.github.io"><img align="left" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>-->
-<a href="https://telegram.dog/BLUE-DEVIL1134"><img align="left" alt="BLUE-DEVIL1134" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a> 
+<a href="https://telegram.dog/AKASH_AM1"><img align="left" alt="Telegram" width="28px" src="https://telegram.org/img/t_logo.png?1" /></a>
+<a href="akashpattnaik.github@gmail.com"><img align="left" alt="Mail" width="28px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" /></a>
+<a href="https://twitter.com/AKASH_AM1"><img align="left" alt="Twitter" width="28px" src="https://abs.twimg.com/responsive-web/client-web/icon-ios.b1fc7275.png" /></a>
 </br>
 
 ---
 ### Languages and Tools I Use:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://developer.mozilla.org/es/docs/Web/HTML)
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://developer.mozilla.org/es/docs/Web/CSS)
+[<img align="left" alt="Dart" width="26px" src="https://dart.dev/assets/shared/dart/icon/64.png" />](https://dart.dev/)
+[<img align="left" alt="Node.js" width="26px" src="https://nodejs.org/static/images/favicons/favicon-32x32.png" />](https://nodejs.org)
+[<img align="left" alt="Python" width="26px" src="https://www.python.org/static/favicon.ico" />](https://python.org)
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://developer.mozilla.org/en/docs/Web/HTML)
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://developer.mozilla.org/en/docs/Web/CSS)
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://developer.mozilla.org/en/docs/Web/JavaScript)
+[<img align="left" alt="Typescript" width="26px" src="https://www.typescriptlang.org/favicon-32x32.png?v=8944a05a8b601855de116c8a56d3b3ae" />](https://typescriptlang.org)
+[<img align="left" alt="React" width="26px" src="https://reactjs.org/favicon.ico" />](https://reactjs.org/)
 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://developer.mozilla.org/es/docs/Web/JavaScript)
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://es.reactjs.org/)
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://nodejs.org/es/)
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://www.w3schools.com/sql/)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://git-scm.com/)
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://help.ubuntu.com/kubuntu/desktopguide/es/terminals.html)
-[<img align="left" alt="Kubernetes" width="36px" src="https://carlossg.github.io/presentations/assets/kubernetes-logo-text.png" />](https://kubernetes.io/es/)
-[<img align="left" alt="RedHat" width="56px" src="https://www.muycomputerpro.com/wp-content/uploads/2019/05/RedHat_logo.jpg" />](https://www.redhat.com/es)
+[<img align="left" alt="Flutter" width="26px" src="https://storage.googleapis.com/cms-storage-bucket/4fd0db61df0567c0f352.png" />](https://flutter.dev/)
+[<img align="left" alt="Git" width="26px" src="https://git-scm.com/favicon.ico" />](https://git-scm.com/)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://code.visualstudio.com/favicon.ico" />](https://code.visualstudio.com/)
 <br />
 
 ---
-### 💰 Support Me Financially:
-<a href="https://ko-fi.com/akashpattnaik"><img height="30" style="border:0px;height:30px;" align="left" alt="Akash" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" /></a> 
 
+### Donate or Support
+
+ - **Bitcoin** - `1CtRtERW75oBNk6qmXSfYgQVqxt6NFwvLM`
+ - **Ethereum** - `0x67243756d4144d6d3e132baa0660e0bc0cddf59b`
+ - **Thether** - `0x67243756d4144d6d3e132baa0660e0bc0cddf59b`
+ - **BUSD** - `0x67243756d4144d6d3e132baa0660e0bc0cddf59b`
