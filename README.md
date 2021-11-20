@@ -51,6 +51,12 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://code.visualstudio.com/favicon.ico" />](https://code.visualstudio.com/)
 <br />
 
+
+---
+## 💻 Latest Activities
+
+<!--START_SECTION:activity-->
+
 ---
 
 ### Donate or Support
