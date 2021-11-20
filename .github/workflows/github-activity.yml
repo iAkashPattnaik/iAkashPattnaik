@@ -2,7 +2,7 @@ name: GitHub Activity Updater.
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 jobs:
