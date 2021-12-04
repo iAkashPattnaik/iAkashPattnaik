@@ -56,11 +56,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/BLUE-DEVIL1134/UltroidCli/pull/14) in [BLUE-DEVIL1134/UltroidCli](https://github.com/BLUE-DEVIL1134/UltroidCli)
-2. 💪 Opened PR [#2](https://github.com/BLUE-DEVIL1134/UltroidCliTemplate/pull/2) in [BLUE-DEVIL1134/UltroidCliTemplate](https://github.com/BLUE-DEVIL1134/UltroidCliTemplate)
-3. 🗣 Commented on [#36](https://github.com/TeamUltroid/pyUltroid/issues/36) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
-4. 🗣 Commented on [#36](https://github.com/TeamUltroid/pyUltroid/issues/36) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
-5. 💪 Opened PR [#36](https://github.com/TeamUltroid/pyUltroid/pull/36) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
+1. 🎉 Merged PR [#2](https://github.com/BLUE-DEVIL1134/UltroidCliTemplate/pull/2) in [BLUE-DEVIL1134/UltroidCliTemplate](https://github.com/BLUE-DEVIL1134/UltroidCliTemplate)
+2. 🗣 Commented on [#2](https://github.com/BLUE-DEVIL1134/UltroidCliTemplate/issues/2) in [BLUE-DEVIL1134/UltroidCliTemplate](https://github.com/BLUE-DEVIL1134/UltroidCliTemplate)
+3. 🎉 Merged PR [#14](https://github.com/BLUE-DEVIL1134/UltroidCli/pull/14) in [BLUE-DEVIL1134/UltroidCli](https://github.com/BLUE-DEVIL1134/UltroidCli)
+4. 🗣 Commented on [#2](https://github.com/BLUE-DEVIL1134/UltroidCliTemplate/issues/2) in [BLUE-DEVIL1134/UltroidCliTemplate](https://github.com/BLUE-DEVIL1134/UltroidCliTemplate)
+5. 💪 Opened PR [#14](https://github.com/BLUE-DEVIL1134/UltroidCli/pull/14) in [BLUE-DEVIL1134/UltroidCli](https://github.com/BLUE-DEVIL1134/UltroidCli)
 <!--END_SECTION:activity-->
 
 ---
