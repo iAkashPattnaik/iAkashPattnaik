@@ -56,11 +56,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#175](https://github.com/TeamUltroid/Ultroid/issues/175) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-2. 🗣 Commented on [#175](https://github.com/TeamUltroid/Ultroid/issues/175) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+1. 🗣 Commented on [#3](https://github.com/BLUE-DEVIL1134/UltroidCliTemplate/issues/3) in [BLUE-DEVIL1134/UltroidCliTemplate](https://github.com/BLUE-DEVIL1134/UltroidCliTemplate)
+2. 🎉 Merged PR [#3](https://github.com/BLUE-DEVIL1134/UltroidCliTemplate/pull/3) in [BLUE-DEVIL1134/UltroidCliTemplate](https://github.com/BLUE-DEVIL1134/UltroidCliTemplate)
 3. 🗣 Commented on [#175](https://github.com/TeamUltroid/Ultroid/issues/175) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-4. 🗣 Commented on [#3](https://github.com/BLUE-DEVIL1134/UltroidCliTemplate/issues/3) in [BLUE-DEVIL1134/UltroidCliTemplate](https://github.com/BLUE-DEVIL1134/UltroidCliTemplate)
-5. 🗣 Commented on [#3](https://github.com/BLUE-DEVIL1134/UltroidCliTemplate/issues/3) in [BLUE-DEVIL1134/UltroidCliTemplate](https://github.com/BLUE-DEVIL1134/UltroidCliTemplate)
+4. 🗣 Commented on [#175](https://github.com/TeamUltroid/Ultroid/issues/175) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+5. 🗣 Commented on [#175](https://github.com/TeamUltroid/Ultroid/issues/175) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
 <!--END_SECTION:activity-->
 
 ---
