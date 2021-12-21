@@ -24,12 +24,11 @@
 ### 📊 Stats:
 
 <a align="left" href="https://telegram.dog/AKASH_AM1"><img src="https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134/blob/main/github-metrics.svg" alt="Akash Pattnaik's Github Stats"/></a>
-<a align="right" href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134/blob/main/devcard.svg" width="300" alt="Akash Pattnaik's Dev Card"/></a>
+<a align="right" href="https://app.daily.dev/AkashPattnaik"><img src="https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134/blob/main/devcard.svg" width="300" alt="Akash Pattnaik's Dev Card"/></a>
 
 ---
 ### 🔗 Connect with me:
 
-<!--<a href="https://BLUE-DEVIL1134.github.io"><img align="left" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>-->
 <a href="https://telegram.dog/AKASH_AM1"><img align="left" alt="Telegram" width="28px" src="https://telegram.org/img/t_logo.png?1" /></a>
 <a href="mailto:akashpattnaik.github@gmail.com"><img align="left" alt="Mail" width="28px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" /></a>
 <a href="https://twitter.com/AKASH_AM1"><img align="left" alt="Twitter" width="28px" src="https://abs.twimg.com/responsive-web/client-web/icon-ios.b1fc7275.png" /></a>
