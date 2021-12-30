@@ -57,11 +57,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/TeamUltroid/pyUltroid/issues/40) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
-2. 💪 Opened PR [#40](https://github.com/TeamUltroid/pyUltroid/pull/40) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
-3. 💪 Opened PR [#39](https://github.com/TeamUltroid/pyUltroid/pull/39) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
-4. 🗣 Commented on [#3](https://github.com/BLUE-DEVIL1134/UltroidCliTemplate/issues/3) in [BLUE-DEVIL1134/UltroidCliTemplate](https://github.com/BLUE-DEVIL1134/UltroidCliTemplate)
-5. 🎉 Merged PR [#3](https://github.com/BLUE-DEVIL1134/UltroidCliTemplate/pull/3) in [BLUE-DEVIL1134/UltroidCliTemplate](https://github.com/BLUE-DEVIL1134/UltroidCliTemplate)
+1. 🎉 Merged PR [#1](https://github.com/TeamUltroid/UltroidWorkflow/pull/1) in [TeamUltroid/UltroidWorkflow](https://github.com/TeamUltroid/UltroidWorkflow)
+2. 💪 Opened PR [#1](https://github.com/TeamUltroid/UltroidWorkflow/pull/1) in [TeamUltroid/UltroidWorkflow](https://github.com/TeamUltroid/UltroidWorkflow)
+3. 🗣 Commented on [#40](https://github.com/TeamUltroid/pyUltroid/issues/40) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
+4. 💪 Opened PR [#40](https://github.com/TeamUltroid/pyUltroid/pull/40) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
+5. 💪 Opened PR [#39](https://github.com/TeamUltroid/pyUltroid/pull/39) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
 <!--END_SECTION:activity-->
 
 ---
