@@ -58,10 +58,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3214](https://github.com/tauri-apps/tauri/issues/3214) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-2. ❗️ Opened issue [#3214](https://github.com/tauri-apps/tauri/issues/3214) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-3. 🎉 Merged PR [#46](https://github.com/TeamUltroid/pyUltroid/pull/46) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
-4. 💪 Opened PR [#46](https://github.com/TeamUltroid/pyUltroid/pull/46) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
-5. 🎉 Merged PR [#45](https://github.com/TeamUltroid/pyUltroid/pull/45) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
+2. 🗣 Commented on [#3214](https://github.com/tauri-apps/tauri/issues/3214) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+3. ❗️ Opened issue [#3214](https://github.com/tauri-apps/tauri/issues/3214) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+4. 🎉 Merged PR [#46](https://github.com/TeamUltroid/pyUltroid/pull/46) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
+5. 💪 Opened PR [#46](https://github.com/TeamUltroid/pyUltroid/pull/46) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
 <!--END_SECTION:activity-->
 
 ---
