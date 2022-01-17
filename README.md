@@ -68,7 +68,8 @@
 
 ### Donate or Support
 
- - **Bitcoin** - `1CtRtERW75oBNk6qmXSfYgQVqxt6NFwvLM`
- - **Ethereum** - `0x67243756d4144d6d3e132baa0660e0bc0cddf59b`
- - **Thether** - `0x67243756d4144d6d3e132baa0660e0bc0cddf59b`
- - **BUSD** - `0x67243756d4144d6d3e132baa0660e0bc0cddf59b`
+- **UPI** - `akashpattnaik.github@ybl`
+- **Bitcoin** - `1CtRtERW75oBNk6qmXSfYgQVqxt6NFwvLM` (Blockchain - `Bitcoin`)
+- **Bitcoin** - `0x67243756d4144d6d3e132baa0660e0bc0cddf59b` (Blockchain - `BEP.20`)
+- **Ethereum** - `0x67243756d4144d6d3e132baa0660e0bc0cddf59b` (Blockchain - `Ethereum`)
+- **TetherUS** - `0x67243756d4144d6d3e132baa0660e0bc0cddf59b` (Blockchain - `BEP.20`)
