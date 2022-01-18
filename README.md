@@ -7,6 +7,7 @@
 
 ---
 ### My Projects -
+- <a href="https://github.com/BLUE-DEVIL1134/colorx.dart/">colorx.dart</a>
 - <a href="https://tiny.ultroid.tech/">Ultroid's URL Shortener</a>
 - <a href="https://allensmarketingbots.tech/">Allens' Marketing Bots</a>
 - <a href="https://github.com/BLUE-DEVIL1134/dart_dotenv">Dart DotEnv</a>
