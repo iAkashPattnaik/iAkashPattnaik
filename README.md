@@ -58,11 +58,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/iamsalnikov/colorize/issues/9) in [iamsalnikov/colorize](https://github.com/iamsalnikov/colorize)
-2. 🗣 Commented on [#3214](https://github.com/tauri-apps/tauri/issues/3214) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+1. 💪 Opened PR [#19](https://github.com/BLUE-DEVIL1134/UltroidCli/pull/19) in [BLUE-DEVIL1134/UltroidCli](https://github.com/BLUE-DEVIL1134/UltroidCli)
+2. 🗣 Commented on [#9](https://github.com/iamsalnikov/colorize/issues/9) in [iamsalnikov/colorize](https://github.com/iamsalnikov/colorize)
 3. 🗣 Commented on [#3214](https://github.com/tauri-apps/tauri/issues/3214) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-4. ❗️ Opened issue [#3214](https://github.com/tauri-apps/tauri/issues/3214) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-5. 🎉 Merged PR [#46](https://github.com/TeamUltroid/pyUltroid/pull/46) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
+4. 🗣 Commented on [#3214](https://github.com/tauri-apps/tauri/issues/3214) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+5. ❗️ Opened issue [#3214](https://github.com/tauri-apps/tauri/issues/3214) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
 <!--END_SECTION:activity-->
 
 ---
