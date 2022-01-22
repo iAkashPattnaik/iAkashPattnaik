@@ -333,14 +333,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="187.85036444677036" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="187.85036444677036" y="0" width="82.87000412806685" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="270.7203685748372" y="0" width="69.03323780831312" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="339.7536063831503" y="0" width="56.33994003251077" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="396.0935464156611" y="0" width="40.846642017746504" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="436.9401884334076" y="0" width="11.389067612477874" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="448.32925604588553" y="0" width="6.357366329192721" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="454.68662237507823" y="0" width="5.313377624921815" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="187.8501400016369" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="187.8501400016369" y="0" width="82.86990511431625" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="270.72004511595316" y="0" width="69.03370493855999" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="339.75375005451315" y="0" width="56.33987271709513" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="396.0936227716083" y="0" width="40.84659321384854" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="436.9402159854568" y="0" width="11.389054004727855" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="448.3292699901846" y="0" width="6.357358733360057" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="454.6866287235447" y="0" width="5.313371276455292" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2597,7 +2597,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="22.7075 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="22.785 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2619,10 +2619,10 @@
                                     <span class="prefix">Super</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">793</div>
+                                        <div class="value">794</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 793 times</div>
+                                <div class="text">Repositories have been deployed 794 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
