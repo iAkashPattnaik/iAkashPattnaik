@@ -59,11 +59,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#54](https://github.com/TeamUltroid/pyUltroid/issues/54) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
-2. 🗣 Commented on [#3](https://github.com/DustbinServer/Dustbin/issues/3) in [DustbinServer/Dustbin](https://github.com/DustbinServer/Dustbin)
-3. 🎉 Merged PR [#4](https://github.com/DustbinServer/Dustbin/pull/4) in [DustbinServer/Dustbin](https://github.com/DustbinServer/Dustbin)
-4. ❌ Reopened PR [#4](https://github.com/DustbinServer/Dustbin/pull/4) in [DustbinServer/Dustbin](https://github.com/DustbinServer/Dustbin)
-5. ❌ Closed PR [#4](https://github.com/DustbinServer/Dustbin/pull/4) in [DustbinServer/Dustbin](https://github.com/DustbinServer/Dustbin)
+1. 💪 Opened PR [#3007](https://github.com/vuejs/vuepress/pull/3007) in [vuejs/vuepress](https://github.com/vuejs/vuepress)
+2. 🗣 Commented on [#54](https://github.com/TeamUltroid/pyUltroid/issues/54) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
+3. 🗣 Commented on [#3](https://github.com/DustbinServer/Dustbin/issues/3) in [DustbinServer/Dustbin](https://github.com/DustbinServer/Dustbin)
+4. 🎉 Merged PR [#4](https://github.com/DustbinServer/Dustbin/pull/4) in [DustbinServer/Dustbin](https://github.com/DustbinServer/Dustbin)
+5. ❌ Reopened PR [#4](https://github.com/DustbinServer/Dustbin/pull/4) in [DustbinServer/Dustbin](https://github.com/DustbinServer/Dustbin)
 <!--END_SECTION:activity-->
 
 ---
