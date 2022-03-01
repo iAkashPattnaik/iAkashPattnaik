@@ -60,11 +60,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](https://github.com/BLUE-DEVIL1134/UltroidCliTemplate/pull/6) in [BLUE-DEVIL1134/UltroidCliTemplate](https://github.com/BLUE-DEVIL1134/UltroidCliTemplate)
-2. 🗣 Commented on [#6](https://github.com/BLUE-DEVIL1134/UltroidCliTemplate/issues/6) in [BLUE-DEVIL1134/UltroidCliTemplate](https://github.com/BLUE-DEVIL1134/UltroidCliTemplate)
-3. 🎉 Merged PR [#3](https://github.com/BLUE-DEVIL1134/imgwhale/pull/3) in [BLUE-DEVIL1134/imgwhale](https://github.com/BLUE-DEVIL1134/imgwhale)
-4. 🎉 Merged PR [#2](https://github.com/BLUE-DEVIL1134/imgwhale/pull/2) in [BLUE-DEVIL1134/imgwhale](https://github.com/BLUE-DEVIL1134/imgwhale)
-5. 💪 Opened PR [#3007](https://github.com/vuejs/vuepress/pull/3007) in [vuejs/vuepress](https://github.com/vuejs/vuepress)
+1. ❌ Closed PR [#4](https://github.com/BLUE-DEVIL1134/imgwhale/pull/4) in [BLUE-DEVIL1134/imgwhale](https://github.com/BLUE-DEVIL1134/imgwhale)
+2. 🗣 Commented on [#4](https://github.com/BLUE-DEVIL1134/imgwhale/issues/4) in [BLUE-DEVIL1134/imgwhale](https://github.com/BLUE-DEVIL1134/imgwhale)
+3. ❌ Closed PR [#6](https://github.com/BLUE-DEVIL1134/UltroidCliTemplate/pull/6) in [BLUE-DEVIL1134/UltroidCliTemplate](https://github.com/BLUE-DEVIL1134/UltroidCliTemplate)
+4. 🗣 Commented on [#6](https://github.com/BLUE-DEVIL1134/UltroidCliTemplate/issues/6) in [BLUE-DEVIL1134/UltroidCliTemplate](https://github.com/BLUE-DEVIL1134/UltroidCliTemplate)
+5. 🎉 Merged PR [#3](https://github.com/BLUE-DEVIL1134/imgwhale/pull/3) in [BLUE-DEVIL1134/imgwhale](https://github.com/BLUE-DEVIL1134/imgwhale)
 <!--END_SECTION:activity-->
 
 ---
