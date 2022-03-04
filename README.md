@@ -60,11 +60,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/TechiError/GadgetsAPI/pull/1) in [TechiError/GadgetsAPI](https://github.com/TechiError/GadgetsAPI)
-2. 🗣 Commented on [#4](https://github.com/BLUE-DEVIL1134/imgwhale/issues/4) in [BLUE-DEVIL1134/imgwhale](https://github.com/BLUE-DEVIL1134/imgwhale)
-3. ❌ Closed PR [#4](https://github.com/BLUE-DEVIL1134/imgwhale/pull/4) in [BLUE-DEVIL1134/imgwhale](https://github.com/BLUE-DEVIL1134/imgwhale)
-4. 🗣 Commented on [#4](https://github.com/BLUE-DEVIL1134/imgwhale/issues/4) in [BLUE-DEVIL1134/imgwhale](https://github.com/BLUE-DEVIL1134/imgwhale)
-5. ❌ Closed PR [#6](https://github.com/BLUE-DEVIL1134/UltroidCliTemplate/pull/6) in [BLUE-DEVIL1134/UltroidCliTemplate](https://github.com/BLUE-DEVIL1134/UltroidCliTemplate)
+1. 🗣 Commented on [#1](https://github.com/TechiError/GadgetsAPI/issues/1) in [TechiError/GadgetsAPI](https://github.com/TechiError/GadgetsAPI)
+2. 💪 Opened PR [#1](https://github.com/TechiError/GadgetsAPI/pull/1) in [TechiError/GadgetsAPI](https://github.com/TechiError/GadgetsAPI)
+3. 🗣 Commented on [#4](https://github.com/BLUE-DEVIL1134/imgwhale/issues/4) in [BLUE-DEVIL1134/imgwhale](https://github.com/BLUE-DEVIL1134/imgwhale)
+4. ❌ Closed PR [#4](https://github.com/BLUE-DEVIL1134/imgwhale/pull/4) in [BLUE-DEVIL1134/imgwhale](https://github.com/BLUE-DEVIL1134/imgwhale)
+5. 🗣 Commented on [#4](https://github.com/BLUE-DEVIL1134/imgwhale/issues/4) in [BLUE-DEVIL1134/imgwhale](https://github.com/BLUE-DEVIL1134/imgwhale)
 <!--END_SECTION:activity-->
 
 ---
