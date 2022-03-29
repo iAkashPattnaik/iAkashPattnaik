@@ -60,11 +60,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/TechiError/rayso-api/pull/3) in [TechiError/rayso-api](https://github.com/TechiError/rayso-api)
-2. 🗣 Commented on [#282](https://github.com/TeamUltroid/Ultroid/issues/282) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-3. 🗣 Commented on [#3007](https://github.com/vuejs/vuepress/issues/3007) in [vuejs/vuepress](https://github.com/vuejs/vuepress)
-4. 🗣 Commented on [#1](https://github.com/TechiError/GadgetsAPI/issues/1) in [TechiError/GadgetsAPI](https://github.com/TechiError/GadgetsAPI)
-5. 💪 Opened PR [#1](https://github.com/TechiError/GadgetsAPI/pull/1) in [TechiError/GadgetsAPI](https://github.com/TechiError/GadgetsAPI)
+1. 🎉 Merged PR [#10](https://github.com/BLUE-DEVIL1134/ProX-WebApp/pull/10) in [BLUE-DEVIL1134/ProX-WebApp](https://github.com/BLUE-DEVIL1134/ProX-WebApp)
+2. 🎉 Merged PR [#9](https://github.com/BLUE-DEVIL1134/ProX-WebApp/pull/9) in [BLUE-DEVIL1134/ProX-WebApp](https://github.com/BLUE-DEVIL1134/ProX-WebApp)
+3. 💪 Opened PR [#3](https://github.com/TechiError/rayso-api/pull/3) in [TechiError/rayso-api](https://github.com/TechiError/rayso-api)
+4. 🗣 Commented on [#282](https://github.com/TeamUltroid/Ultroid/issues/282) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+5. 🗣 Commented on [#3007](https://github.com/vuejs/vuepress/issues/3007) in [vuejs/vuepress](https://github.com/vuejs/vuepress)
 <!--END_SECTION:activity-->
 
 ---
