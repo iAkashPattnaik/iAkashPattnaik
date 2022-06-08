@@ -60,11 +60,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/New-dev0/WebDeployer/pull/1) in [New-dev0/WebDeployer](https://github.com/New-dev0/WebDeployer)
-2. 🎉 Merged PR [#10](https://github.com/BLUE-DEVIL1134/ProX-WebApp/pull/10) in [BLUE-DEVIL1134/ProX-WebApp](https://github.com/BLUE-DEVIL1134/ProX-WebApp)
-3. 🎉 Merged PR [#9](https://github.com/BLUE-DEVIL1134/ProX-WebApp/pull/9) in [BLUE-DEVIL1134/ProX-WebApp](https://github.com/BLUE-DEVIL1134/ProX-WebApp)
-4. 💪 Opened PR [#3](https://github.com/TechiError/rayso-api/pull/3) in [TechiError/rayso-api](https://github.com/TechiError/rayso-api)
-5. 🗣 Commented on [#282](https://github.com/TeamUltroid/Ultroid/issues/282) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+1. 🗣 Commented on [#1](https://github.com/BLUE-DEVIL1134/MailServerBot/issues/1) in [BLUE-DEVIL1134/MailServerBot](https://github.com/BLUE-DEVIL1134/MailServerBot)
+2. 💪 Opened PR [#1](https://github.com/New-dev0/WebDeployer/pull/1) in [New-dev0/WebDeployer](https://github.com/New-dev0/WebDeployer)
+3. 🎉 Merged PR [#10](https://github.com/BLUE-DEVIL1134/ProX-WebApp/pull/10) in [BLUE-DEVIL1134/ProX-WebApp](https://github.com/BLUE-DEVIL1134/ProX-WebApp)
+4. 🎉 Merged PR [#9](https://github.com/BLUE-DEVIL1134/ProX-WebApp/pull/9) in [BLUE-DEVIL1134/ProX-WebApp](https://github.com/BLUE-DEVIL1134/ProX-WebApp)
+5. 💪 Opened PR [#3](https://github.com/TechiError/rayso-api/pull/3) in [TechiError/rayso-api](https://github.com/TechiError/rayso-api)
 <!--END_SECTION:activity-->
 
 ---
