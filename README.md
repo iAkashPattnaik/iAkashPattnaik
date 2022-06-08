@@ -60,11 +60,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/BLUE-DEVIL1134/MailServerBot/issues/1) in [BLUE-DEVIL1134/MailServerBot](https://github.com/BLUE-DEVIL1134/MailServerBot)
-2. 💪 Opened PR [#1](https://github.com/New-dev0/WebDeployer/pull/1) in [New-dev0/WebDeployer](https://github.com/New-dev0/WebDeployer)
-3. 🎉 Merged PR [#10](https://github.com/BLUE-DEVIL1134/ProX-WebApp/pull/10) in [BLUE-DEVIL1134/ProX-WebApp](https://github.com/BLUE-DEVIL1134/ProX-WebApp)
-4. 🎉 Merged PR [#9](https://github.com/BLUE-DEVIL1134/ProX-WebApp/pull/9) in [BLUE-DEVIL1134/ProX-WebApp](https://github.com/BLUE-DEVIL1134/ProX-WebApp)
-5. 💪 Opened PR [#3](https://github.com/TechiError/rayso-api/pull/3) in [TechiError/rayso-api](https://github.com/TechiError/rayso-api)
+1. 🎉 Merged PR [#2](https://github.com/BLUE-DEVIL1134/MailServerBot/pull/2) in [BLUE-DEVIL1134/MailServerBot](https://github.com/BLUE-DEVIL1134/MailServerBot)
+2. ❗️ Closed issue [#1](https://github.com/BLUE-DEVIL1134/MailServerBot/issues/1) in [BLUE-DEVIL1134/MailServerBot](https://github.com/BLUE-DEVIL1134/MailServerBot)
+3. 💪 Opened PR [#2](https://github.com/BLUE-DEVIL1134/MailServerBot/pull/2) in [BLUE-DEVIL1134/MailServerBot](https://github.com/BLUE-DEVIL1134/MailServerBot)
+4. 🗣 Commented on [#1](https://github.com/BLUE-DEVIL1134/MailServerBot/issues/1) in [BLUE-DEVIL1134/MailServerBot](https://github.com/BLUE-DEVIL1134/MailServerBot)
+5. 💪 Opened PR [#1](https://github.com/New-dev0/WebDeployer/pull/1) in [New-dev0/WebDeployer](https://github.com/New-dev0/WebDeployer)
 <!--END_SECTION:activity-->
 
 ---
