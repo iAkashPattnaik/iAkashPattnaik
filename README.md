@@ -60,11 +60,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/BLUE-DEVIL1134/MailServerBot/pull/2) in [BLUE-DEVIL1134/MailServerBot](https://github.com/BLUE-DEVIL1134/MailServerBot)
-2. ❗️ Closed issue [#1](https://github.com/BLUE-DEVIL1134/MailServerBot/issues/1) in [BLUE-DEVIL1134/MailServerBot](https://github.com/BLUE-DEVIL1134/MailServerBot)
-3. 💪 Opened PR [#2](https://github.com/BLUE-DEVIL1134/MailServerBot/pull/2) in [BLUE-DEVIL1134/MailServerBot](https://github.com/BLUE-DEVIL1134/MailServerBot)
-4. 🗣 Commented on [#1](https://github.com/BLUE-DEVIL1134/MailServerBot/issues/1) in [BLUE-DEVIL1134/MailServerBot](https://github.com/BLUE-DEVIL1134/MailServerBot)
-5. 💪 Opened PR [#1](https://github.com/New-dev0/WebDeployer/pull/1) in [New-dev0/WebDeployer](https://github.com/New-dev0/WebDeployer)
+1. ❗️ Closed issue [#322](https://github.com/TeamUltroid/Ultroid/issues/322) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+2. 🗣 Commented on [#322](https://github.com/TeamUltroid/Ultroid/issues/322) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+3. 🎉 Merged PR [#2](https://github.com/BLUE-DEVIL1134/MailServerBot/pull/2) in [BLUE-DEVIL1134/MailServerBot](https://github.com/BLUE-DEVIL1134/MailServerBot)
+4. ❗️ Closed issue [#1](https://github.com/BLUE-DEVIL1134/MailServerBot/issues/1) in [BLUE-DEVIL1134/MailServerBot](https://github.com/BLUE-DEVIL1134/MailServerBot)
+5. 💪 Opened PR [#2](https://github.com/BLUE-DEVIL1134/MailServerBot/pull/2) in [BLUE-DEVIL1134/MailServerBot](https://github.com/BLUE-DEVIL1134/MailServerBot)
 <!--END_SECTION:activity-->
 
 ---
