@@ -1,4 +1,4 @@
-## <img src="https://i.imgur.com/lsizgGl.gif" width="30px"> Hi I'm Akash Pattnaik || <img src="https://komarev.com/ghpvc/?username=BLUE-DEVIL1134&label=Profile Views&color=blue&style=plastic" alt="profileViews" />
+## <img src="https://i.imgur.com/lsizgGl.gif" width="30px" height="30px"> Hi I'm Akash Pattnaik || <img src="https://komarev.com/ghpvc/?username=BLUE-DEVIL1134&label=Profile Views&color=blue&style=plastic" alt="profileViews" />
 
 - 💫 I’m currently working on [ImgWhale](https://imgwhale.xyz/)
 - 📱 [Contact with me](#-connect-with-me)
