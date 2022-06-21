@@ -60,11 +60,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#322](https://github.com/TeamUltroid/Ultroid/issues/322) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-2. 🗣 Commented on [#322](https://github.com/TeamUltroid/Ultroid/issues/322) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-3. 🎉 Merged PR [#2](https://github.com/BLUE-DEVIL1134/MailServerBot/pull/2) in [BLUE-DEVIL1134/MailServerBot](https://github.com/BLUE-DEVIL1134/MailServerBot)
-4. ❗️ Closed issue [#1](https://github.com/BLUE-DEVIL1134/MailServerBot/issues/1) in [BLUE-DEVIL1134/MailServerBot](https://github.com/BLUE-DEVIL1134/MailServerBot)
-5. 💪 Opened PR [#2](https://github.com/BLUE-DEVIL1134/MailServerBot/pull/2) in [BLUE-DEVIL1134/MailServerBot](https://github.com/BLUE-DEVIL1134/MailServerBot)
+1. 💪 Opened PR [#3199](https://github.com/public-apis/public-apis/pull/3199) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
+2. 🎉 Merged PR [#1](https://github.com/BLUE-DEVIL1134/public-apis/pull/1) in [BLUE-DEVIL1134/public-apis](https://github.com/BLUE-DEVIL1134/public-apis)
+3. 💪 Opened PR [#1](https://github.com/BLUE-DEVIL1134/public-apis/pull/1) in [BLUE-DEVIL1134/public-apis](https://github.com/BLUE-DEVIL1134/public-apis)
+4. ❗️ Closed issue [#322](https://github.com/TeamUltroid/Ultroid/issues/322) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+5. 🗣 Commented on [#322](https://github.com/TeamUltroid/Ultroid/issues/322) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
 <!--END_SECTION:activity-->
 
 ---
