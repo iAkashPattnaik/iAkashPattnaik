@@ -60,11 +60,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/LearnWeb3DAO/BasicFrontEndTutorial/pull/15) in [LearnWeb3DAO/BasicFrontEndTutorial](https://github.com/LearnWeb3DAO/BasicFrontEndTutorial)
-2. 💪 Opened PR [#3199](https://github.com/public-apis/public-apis/pull/3199) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
-3. 🎉 Merged PR [#1](https://github.com/BLUE-DEVIL1134/public-apis/pull/1) in [BLUE-DEVIL1134/public-apis](https://github.com/BLUE-DEVIL1134/public-apis)
-4. 💪 Opened PR [#1](https://github.com/BLUE-DEVIL1134/public-apis/pull/1) in [BLUE-DEVIL1134/public-apis](https://github.com/BLUE-DEVIL1134/public-apis)
-5. ❗️ Closed issue [#322](https://github.com/TeamUltroid/Ultroid/issues/322) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+1. ❗️ Opened issue [#2](https://github.com/New-dev0/Spiral/issues/2) in [New-dev0/Spiral](https://github.com/New-dev0/Spiral)
+2. 💪 Opened PR [#15](https://github.com/LearnWeb3DAO/BasicFrontEndTutorial/pull/15) in [LearnWeb3DAO/BasicFrontEndTutorial](https://github.com/LearnWeb3DAO/BasicFrontEndTutorial)
+3. 💪 Opened PR [#3199](https://github.com/public-apis/public-apis/pull/3199) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
+4. 🎉 Merged PR [#1](https://github.com/BLUE-DEVIL1134/public-apis/pull/1) in [BLUE-DEVIL1134/public-apis](https://github.com/BLUE-DEVIL1134/public-apis)
+5. 💪 Opened PR [#1](https://github.com/BLUE-DEVIL1134/public-apis/pull/1) in [BLUE-DEVIL1134/public-apis](https://github.com/BLUE-DEVIL1134/public-apis)
 <!--END_SECTION:activity-->
 
 ---
