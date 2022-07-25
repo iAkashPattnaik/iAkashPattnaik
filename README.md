@@ -60,11 +60,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#321](https://github.com/TeamUltroid/Ultroid/issues/321) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-2. ❗️ Opened issue [#2](https://github.com/New-dev0/Spiral/issues/2) in [New-dev0/Spiral](https://github.com/New-dev0/Spiral)
-3. 💪 Opened PR [#15](https://github.com/LearnWeb3DAO/BasicFrontEndTutorial/pull/15) in [LearnWeb3DAO/BasicFrontEndTutorial](https://github.com/LearnWeb3DAO/BasicFrontEndTutorial)
-4. 💪 Opened PR [#3199](https://github.com/public-apis/public-apis/pull/3199) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
-5. 🎉 Merged PR [#1](https://github.com/BLUE-DEVIL1134/public-apis/pull/1) in [BLUE-DEVIL1134/public-apis](https://github.com/BLUE-DEVIL1134/public-apis)
+1. ❗️ Closed issue [#5](https://github.com/ImgWhale/imgwhale/issues/5) in [ImgWhale/imgwhale](https://github.com/ImgWhale/imgwhale)
+2. 🗣 Commented on [#5](https://github.com/ImgWhale/imgwhale/issues/5) in [ImgWhale/imgwhale](https://github.com/ImgWhale/imgwhale)
+3. 🗣 Commented on [#321](https://github.com/TeamUltroid/Ultroid/issues/321) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+4. ❗️ Opened issue [#2](https://github.com/New-dev0/Spiral/issues/2) in [New-dev0/Spiral](https://github.com/New-dev0/Spiral)
+5. 💪 Opened PR [#15](https://github.com/LearnWeb3DAO/BasicFrontEndTutorial/pull/15) in [LearnWeb3DAO/BasicFrontEndTutorial](https://github.com/LearnWeb3DAO/BasicFrontEndTutorial)
 <!--END_SECTION:activity-->
 
 ---
