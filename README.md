@@ -60,11 +60,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/ImgWhale/imgwhale/issues/5) in [ImgWhale/imgwhale](https://github.com/ImgWhale/imgwhale)
-2. 🗣 Commented on [#5](https://github.com/ImgWhale/imgwhale/issues/5) in [ImgWhale/imgwhale](https://github.com/ImgWhale/imgwhale)
-3. 🗣 Commented on [#321](https://github.com/TeamUltroid/Ultroid/issues/321) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-4. ❗️ Opened issue [#2](https://github.com/New-dev0/Spiral/issues/2) in [New-dev0/Spiral](https://github.com/New-dev0/Spiral)
-5. 💪 Opened PR [#15](https://github.com/LearnWeb3DAO/BasicFrontEndTutorial/pull/15) in [LearnWeb3DAO/BasicFrontEndTutorial](https://github.com/LearnWeb3DAO/BasicFrontEndTutorial)
+1. 💪 Opened PR [#2](https://github.com/New-dev0/Template-generator/pull/2) in [New-dev0/Template-generator](https://github.com/New-dev0/Template-generator)
+2. ❗️ Closed issue [#5](https://github.com/ImgWhale/imgwhale/issues/5) in [ImgWhale/imgwhale](https://github.com/ImgWhale/imgwhale)
+3. 🗣 Commented on [#5](https://github.com/ImgWhale/imgwhale/issues/5) in [ImgWhale/imgwhale](https://github.com/ImgWhale/imgwhale)
+4. 🗣 Commented on [#321](https://github.com/TeamUltroid/Ultroid/issues/321) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+5. ❗️ Opened issue [#2](https://github.com/New-dev0/Spiral/issues/2) in [New-dev0/Spiral](https://github.com/New-dev0/Spiral)
 <!--END_SECTION:activity-->
 
 ---
