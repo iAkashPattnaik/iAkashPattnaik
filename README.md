@@ -60,11 +60,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/New-dev0/Template-generator/pull/2) in [New-dev0/Template-generator](https://github.com/New-dev0/Template-generator)
-2. ❗️ Closed issue [#5](https://github.com/ImgWhale/imgwhale/issues/5) in [ImgWhale/imgwhale](https://github.com/ImgWhale/imgwhale)
-3. 🗣 Commented on [#5](https://github.com/ImgWhale/imgwhale/issues/5) in [ImgWhale/imgwhale](https://github.com/ImgWhale/imgwhale)
-4. 🗣 Commented on [#321](https://github.com/TeamUltroid/Ultroid/issues/321) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-5. ❗️ Opened issue [#2](https://github.com/New-dev0/Spiral/issues/2) in [New-dev0/Spiral](https://github.com/New-dev0/Spiral)
+1. 💪 Opened PR [#10](https://github.com/sbis04/flutter_camera_demo/pull/10) in [sbis04/flutter_camera_demo](https://github.com/sbis04/flutter_camera_demo)
+2. 💪 Opened PR [#2](https://github.com/New-dev0/Template-generator/pull/2) in [New-dev0/Template-generator](https://github.com/New-dev0/Template-generator)
+3. ❗️ Closed issue [#5](https://github.com/ImgWhale/imgwhale/issues/5) in [ImgWhale/imgwhale](https://github.com/ImgWhale/imgwhale)
+4. 🗣 Commented on [#5](https://github.com/ImgWhale/imgwhale/issues/5) in [ImgWhale/imgwhale](https://github.com/ImgWhale/imgwhale)
+5. 🗣 Commented on [#321](https://github.com/TeamUltroid/Ultroid/issues/321) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
 <!--END_SECTION:activity-->
 
 ---
