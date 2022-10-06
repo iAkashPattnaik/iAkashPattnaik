@@ -60,11 +60,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134/pull/3) in [BLUE-DEVIL1134/BLUE-DEVIL1134](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134)
-2. 💪 Opened PR [#3](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134/pull/3) in [BLUE-DEVIL1134/BLUE-DEVIL1134](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134)
-3. ❌ Closed PR [#10](https://github.com/sbis04/flutter_camera_demo/pull/10) in [sbis04/flutter_camera_demo](https://github.com/sbis04/flutter_camera_demo)
-4. 💪 Opened PR [#10](https://github.com/sbis04/flutter_camera_demo/pull/10) in [sbis04/flutter_camera_demo](https://github.com/sbis04/flutter_camera_demo)
-5. 💪 Opened PR [#2](https://github.com/New-dev0/Template-generator/pull/2) in [New-dev0/Template-generator](https://github.com/New-dev0/Template-generator)
+1. 💪 Opened PR [#120](https://github.com/jvm-coder/Hacktoberfest2022_aakash/pull/120) in [jvm-coder/Hacktoberfest2022_aakash](https://github.com/jvm-coder/Hacktoberfest2022_aakash)
+2. 🎉 Merged PR [#3](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134/pull/3) in [BLUE-DEVIL1134/BLUE-DEVIL1134](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134)
+3. 💪 Opened PR [#3](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134/pull/3) in [BLUE-DEVIL1134/BLUE-DEVIL1134](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134)
+4. ❌ Closed PR [#10](https://github.com/sbis04/flutter_camera_demo/pull/10) in [sbis04/flutter_camera_demo](https://github.com/sbis04/flutter_camera_demo)
+5. 💪 Opened PR [#10](https://github.com/sbis04/flutter_camera_demo/pull/10) in [sbis04/flutter_camera_demo](https://github.com/sbis04/flutter_camera_demo)
 <!--END_SECTION:activity-->
 
 ---
