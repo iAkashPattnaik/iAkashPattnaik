@@ -11,7 +11,6 @@
 - <a href="https://github.com/BLUE-DEVIL1134/colorx.dart/">colorx.dart</a>
 - <a href="https://dustbin.me/">Dustbin</a>
 - <a href="https://tiny.ultroid.tech/">Ultroid's URL Shortener</a>
-- <a href="https://allensmarketingbots.tech/">Allens' Marketing Bots</a>
 - <a href="https://github.com/BLUE-DEVIL1134/dart_dotenv">Dart DotEnv</a>
 - <a href="https://github.com/BLUE-DEVIL1134/MailServerBot">Mail Server Bot</a>
 - <a href="https://github.com/BLUE-DEVIL1134/sessionStringGenerator">Session String Generator</a>
@@ -46,6 +45,7 @@
 [<img align="left" alt="Python" width="26px" src="https://www.python.org/static/favicon.ico" />](https://python.org)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://developer.mozilla.org/en/docs/Web/HTML)
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://developer.mozilla.org/en/docs/Web/CSS)
+[<img align="left" alt="TailwindCSS" width="26px" src="https://tailwindcss.com/favicons/favicon-32x32.png?v=3" />](https://tailwindcss.com/)
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://developer.mozilla.org/en/docs/Web/JavaScript)
 [<img align="left" alt="Typescript" width="26px" src="https://www.typescriptlang.org/favicon-32x32.png?v=8944a05a8b601855de116c8a56d3b3ae" />](https://typescriptlang.org)
 [<img align="left" alt="React" width="26px" src="https://reactjs.org/favicon.ico" />](https://reactjs.org/)
