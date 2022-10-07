@@ -32,7 +32,6 @@
 ---
 ### 🔗 Connect with me:
 
-<a href="https://telegram.dog/AKASH_AM1"><img align="left" alt="Telegram" width="28px" src="https://telegram.org/img/t_logo.png?1" /></a>
 <a href="mailto:akashpattnaik.github@gmail.com"><img align="left" alt="Mail" width="28px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" /></a>
 <a href="https://twitter.com/AKASH_AM1"><img align="left" alt="Twitter" width="28px" src="https://abs.twimg.com/responsive-web/client-web/icon-ios.b1fc7275.png" /></a>
 </br>
