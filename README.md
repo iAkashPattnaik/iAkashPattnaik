@@ -59,11 +59,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134/pull/5) in [BLUE-DEVIL1134/BLUE-DEVIL1134](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134)
-2. 💪 Opened PR [#5](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134/pull/5) in [BLUE-DEVIL1134/BLUE-DEVIL1134](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134)
-3. 🎉 Merged PR [#4](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134/pull/4) in [BLUE-DEVIL1134/BLUE-DEVIL1134](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134)
-4. 💪 Opened PR [#4](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134/pull/4) in [BLUE-DEVIL1134/BLUE-DEVIL1134](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134)
-5. 💪 Opened PR [#120](https://github.com/jvm-coder/Hacktoberfest2022_aakash/pull/120) in [jvm-coder/Hacktoberfest2022_aakash](https://github.com/jvm-coder/Hacktoberfest2022_aakash)
+1. 🎉 Merged PR [#20](https://github.com/BLUE-DEVIL1134/UltroidCli/pull/20) in [BLUE-DEVIL1134/UltroidCli](https://github.com/BLUE-DEVIL1134/UltroidCli)
+2. 💪 Opened PR [#20](https://github.com/BLUE-DEVIL1134/UltroidCli/pull/20) in [BLUE-DEVIL1134/UltroidCli](https://github.com/BLUE-DEVIL1134/UltroidCli)
+3. 🎉 Merged PR [#5](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134/pull/5) in [BLUE-DEVIL1134/BLUE-DEVIL1134](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134)
+4. 💪 Opened PR [#5](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134/pull/5) in [BLUE-DEVIL1134/BLUE-DEVIL1134](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134)
+5. 🎉 Merged PR [#4](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134/pull/4) in [BLUE-DEVIL1134/BLUE-DEVIL1134](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134)
 <!--END_SECTION:activity-->
 
 ---
