@@ -75,7 +75,6 @@
 
 ### Donate or Support
 
-- **UPI** - `akashpattnaik.github@ybl`
 - **Bitcoin** - `1CtRtERW75oBNk6qmXSfYgQVqxt6NFwvLM` (Blockchain - `Bitcoin`)
 - **Bitcoin** - `0x67243756d4144d6d3e132baa0660e0bc0cddf59b` (Blockchain - `BEP.20`)
 - **Ethereum** - `0x67243756d4144d6d3e132baa0660e0bc0cddf59b` (Blockchain - `Ethereum`)
