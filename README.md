@@ -20,6 +20,7 @@
   - <a href="https://github.com/BLUE-DEVIL1134/UltroidCliTemplate" align="right">UltroidCliTemplate</a> 
 - <a href="https://github.com/BLUE-DEVIL1134/ProX-WebApp">ProXWebApp</a>
 - <a href="https://github.com/BLUE-DEVIL1134/AudioExtractorBot">Audio Extractor Bot</a>
+- <a href="https://github.com/BLUE-DEVIL1134/BinChecker">Bin Checker</a>
 - <a href="https://github.com/BLUE-DEVIL1134/IronEye">IronEye</a>
 - <a href="https://github.com/gramjsuserbot/gramjsuserbot">GramJS Userbot</a>
 
