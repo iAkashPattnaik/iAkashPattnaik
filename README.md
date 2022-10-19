@@ -59,11 +59,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5149](https://github.com/aptos-labs/aptos-core/pull/5149) in [aptos-labs/aptos-core](https://github.com/aptos-labs/aptos-core)
-2. 💪 Opened PR [#2141](https://github.com/tensorflow/docs/pull/2141) in [tensorflow/docs](https://github.com/tensorflow/docs)
-3. 🎉 Merged PR [#6](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134/pull/6) in [BLUE-DEVIL1134/BLUE-DEVIL1134](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134)
-4. 💪 Opened PR [#6](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134/pull/6) in [BLUE-DEVIL1134/BLUE-DEVIL1134](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134)
-5. 🎉 Merged PR [#20](https://github.com/BLUE-DEVIL1134/UltroidCli/pull/20) in [BLUE-DEVIL1134/UltroidCli](https://github.com/BLUE-DEVIL1134/UltroidCli)
+1. 🗣 Commented on [#2141](https://github.com/tensorflow/docs/issues/2141) in [tensorflow/docs](https://github.com/tensorflow/docs)
+2. 💪 Opened PR [#5149](https://github.com/aptos-labs/aptos-core/pull/5149) in [aptos-labs/aptos-core](https://github.com/aptos-labs/aptos-core)
+3. 💪 Opened PR [#2141](https://github.com/tensorflow/docs/pull/2141) in [tensorflow/docs](https://github.com/tensorflow/docs)
+4. 🎉 Merged PR [#6](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134/pull/6) in [BLUE-DEVIL1134/BLUE-DEVIL1134](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134)
+5. 💪 Opened PR [#6](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134/pull/6) in [BLUE-DEVIL1134/BLUE-DEVIL1134](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134)
 <!--END_SECTION:activity-->
 
 ---
