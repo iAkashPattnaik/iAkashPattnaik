@@ -69,10 +69,11 @@
 
 ---
 ## My Recent Writings
-1. [**🪸 Git 2.38 has changed!**](https://dev.to/akashpattnaik/git-238-has-changed-4oe7)
-2. [**🦄 Is vscode dying?**](https://dev.to/akashpattnaik/is-vscode-dying-1a2g)
-3. [**😔 Python Bad**](https://dev.to/akashpattnaik/python-bad-28ji)
-4. [**😮 Folder based start menu in win11!**](https://dev.to/akashpattnaik/folder-based-start-menu-in-win11-4ed2)
+1. [**🐲 The modern age terminal**](https://dev.to/akashpattnaik/the-modern-age-terminal-4g0f)
+2. [**🪸 Git 2.38 has changed!**](https://dev.to/akashpattnaik/git-238-has-changed-4oe7)
+3. [**🦄 Is vscode dying?**](https://dev.to/akashpattnaik/is-vscode-dying-1a2g)
+4. [**😔 Python Bad**](https://dev.to/akashpattnaik/python-bad-28ji)
+5. [**😮 Folder based start menu in win11!**](https://dev.to/akashpattnaik/folder-based-start-menu-in-win11-4ed2)
 
 ### Donate or Support
 
