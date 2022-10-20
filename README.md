@@ -60,11 +60,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134/pull/7) in [BLUE-DEVIL1134/BLUE-DEVIL1134](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134)
-2. 💪 Opened PR [#7](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134/pull/7) in [BLUE-DEVIL1134/BLUE-DEVIL1134](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134)
-3. 💪 Opened PR [#7](https://github.com/xditya/WhatsUB/pull/7) in [xditya/WhatsUB](https://github.com/xditya/WhatsUB)
-4. 🗣 Commented on [#2141](https://github.com/tensorflow/docs/issues/2141) in [tensorflow/docs](https://github.com/tensorflow/docs)
-5. 💪 Opened PR [#5149](https://github.com/aptos-labs/aptos-core/pull/5149) in [aptos-labs/aptos-core](https://github.com/aptos-labs/aptos-core)
+1. 🗣 Commented on [#2141](https://github.com/tensorflow/docs/issues/2141) in [tensorflow/docs](https://github.com/tensorflow/docs)
+2. 🎉 Merged PR [#7](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134/pull/7) in [BLUE-DEVIL1134/BLUE-DEVIL1134](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134)
+3. 💪 Opened PR [#7](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134/pull/7) in [BLUE-DEVIL1134/BLUE-DEVIL1134](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134)
+4. 💪 Opened PR [#7](https://github.com/xditya/WhatsUB/pull/7) in [xditya/WhatsUB](https://github.com/xditya/WhatsUB)
+5. 🗣 Commented on [#2141](https://github.com/tensorflow/docs/issues/2141) in [tensorflow/docs](https://github.com/tensorflow/docs)
 <!--END_SECTION:activity-->
 
 ---
