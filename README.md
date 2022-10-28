@@ -61,11 +61,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2141](https://github.com/tensorflow/docs/issues/2141) in [tensorflow/docs](https://github.com/tensorflow/docs)
+1. 🗣 Commented on [#34](https://github.com/pillarjs/multiparty/issues/34) in [pillarjs/multiparty](https://github.com/pillarjs/multiparty)
 2. 🗣 Commented on [#2141](https://github.com/tensorflow/docs/issues/2141) in [tensorflow/docs](https://github.com/tensorflow/docs)
-3. 🎉 Merged PR [#7](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134/pull/7) in [BLUE-DEVIL1134/BLUE-DEVIL1134](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134)
-4. 💪 Opened PR [#7](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134/pull/7) in [BLUE-DEVIL1134/BLUE-DEVIL1134](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134)
-5. 💪 Opened PR [#7](https://github.com/xditya/WhatsUB/pull/7) in [xditya/WhatsUB](https://github.com/xditya/WhatsUB)
+3. 🗣 Commented on [#2141](https://github.com/tensorflow/docs/issues/2141) in [tensorflow/docs](https://github.com/tensorflow/docs)
+4. 🎉 Merged PR [#7](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134/pull/7) in [BLUE-DEVIL1134/BLUE-DEVIL1134](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134)
+5. 💪 Opened PR [#7](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134/pull/7) in [BLUE-DEVIL1134/BLUE-DEVIL1134](https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134)
 <!--END_SECTION:activity-->
 
 ---
