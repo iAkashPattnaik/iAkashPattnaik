@@ -61,11 +61,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35](https://github.com/LearnWeb3DAO/Sophomore-Track/pull/35) in [LearnWeb3DAO/Sophomore-Track](https://github.com/LearnWeb3DAO/Sophomore-Track)
-2. 🗣 Commented on [#9](https://github.com/iamsalnikov/colorize/issues/9) in [iamsalnikov/colorize](https://github.com/iamsalnikov/colorize)
+1. 💪 Opened PR [#36](https://github.com/LearnWeb3DAO/Sophomore-Track/pull/36) in [LearnWeb3DAO/Sophomore-Track](https://github.com/LearnWeb3DAO/Sophomore-Track)
+2. 💪 Opened PR [#35](https://github.com/LearnWeb3DAO/Sophomore-Track/pull/35) in [LearnWeb3DAO/Sophomore-Track](https://github.com/LearnWeb3DAO/Sophomore-Track)
 3. 🗣 Commented on [#9](https://github.com/iamsalnikov/colorize/issues/9) in [iamsalnikov/colorize](https://github.com/iamsalnikov/colorize)
 4. 🗣 Commented on [#9](https://github.com/iamsalnikov/colorize/issues/9) in [iamsalnikov/colorize](https://github.com/iamsalnikov/colorize)
-5. 💪 Opened PR [#42146](https://github.com/vercel/next.js/pull/42146) in [vercel/next.js](https://github.com/vercel/next.js)
+5. 🗣 Commented on [#9](https://github.com/iamsalnikov/colorize/issues/9) in [iamsalnikov/colorize](https://github.com/iamsalnikov/colorize)
 <!--END_SECTION:activity-->
 
 ---
