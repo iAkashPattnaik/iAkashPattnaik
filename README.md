@@ -61,11 +61,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/CJ42/All-About-Solidity/issues/6) in [CJ42/All-About-Solidity](https://github.com/CJ42/All-About-Solidity)
-2. 💪 Opened PR [#1](https://github.com/ytskk/deco/pull/1) in [ytskk/deco](https://github.com/ytskk/deco)
-3. 💪 Opened PR [#38](https://github.com/LearnWeb3DAO/Sophomore-Track/pull/38) in [LearnWeb3DAO/Sophomore-Track](https://github.com/LearnWeb3DAO/Sophomore-Track)
-4. 💪 Opened PR [#37](https://github.com/LearnWeb3DAO/Sophomore-Track/pull/37) in [LearnWeb3DAO/Sophomore-Track](https://github.com/LearnWeb3DAO/Sophomore-Track)
-5. 💪 Opened PR [#36](https://github.com/LearnWeb3DAO/Sophomore-Track/pull/36) in [LearnWeb3DAO/Sophomore-Track](https://github.com/LearnWeb3DAO/Sophomore-Track)
+1. 💪 Opened PR [#1](https://github.com/Leoksu/mogenius-ultroid/pull/1) in [Leoksu/mogenius-ultroid](https://github.com/Leoksu/mogenius-ultroid)
+2. ❗️ Opened issue [#6](https://github.com/CJ42/All-About-Solidity/issues/6) in [CJ42/All-About-Solidity](https://github.com/CJ42/All-About-Solidity)
+3. 💪 Opened PR [#1](https://github.com/ytskk/deco/pull/1) in [ytskk/deco](https://github.com/ytskk/deco)
+4. 💪 Opened PR [#38](https://github.com/LearnWeb3DAO/Sophomore-Track/pull/38) in [LearnWeb3DAO/Sophomore-Track](https://github.com/LearnWeb3DAO/Sophomore-Track)
+5. 💪 Opened PR [#37](https://github.com/LearnWeb3DAO/Sophomore-Track/pull/37) in [LearnWeb3DAO/Sophomore-Track](https://github.com/LearnWeb3DAO/Sophomore-Track)
 <!--END_SECTION:activity-->
 
 ---
