@@ -30,6 +30,7 @@
 <a align="left" href="https://telegram.dog/AKASH_AM1"><img src="https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134/blob/main/github-metrics.svg" alt="Akash Pattnaik's Github Stats"/></a>
 <a align="right" href="https://app.daily.dev/AkashPattnaik"><img src="https://github.com/BLUE-DEVIL1134/BLUE-DEVIL1134/blob/main/devcard.svg" width="300" alt="Akash Pattnaik's Dev Card"/></a>
 [![@akash_am1's Holopin board](https://holopin.me/akash_am1)](https://holopin.io/@akash_am1)
+[![iAkashPattnaik's GitHub | Languages Over Time](https://stats.quine.sh/iAkashPattnaik/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=iAkashPattnaik)
 
 ---
 ### 🔗 Connect with me:
