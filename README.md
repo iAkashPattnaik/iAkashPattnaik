@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Akash Pattnaik!
+# 👋 Hello, I'm Akash!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Frontend+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
