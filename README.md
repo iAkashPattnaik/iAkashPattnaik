@@ -45,7 +45,7 @@ I'm a passionate Fullstack Developer enthusiast from India. I love building inno
 
 ## 🤖 Bots and Utilities
 
-- [Mail Server Bot](https://github.com/iAkashPattnaik/MailServerBot) - Telegram Bot for managing google mails [`Discontinued`]
+- [Mail Server Bot](https://github.com/iAkashPattnaik/MailServerBot) - Telegram Bot for managing google mails (v2.0 - Receiving and Sending ✅)
 - [Session String Generator](https://github.com/iAkashPattnaik/sessionStringGenerator) - Tool for generating Telegram session strings [`Discontinued`]
 - [Minecraft Checker](https://github.com/iAkashPattnaik/MinecraftChecker) - Telegram Bot for checking Minecraft accounts
 - [Audio Extractor Bot](https://github.com/iAkashPattnaik/AudioExtractorBot) - Telegram bot for extracting audio from videos
